@@ -4,6 +4,6 @@
 <a href="https://github.com/atsumarukun">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsumarukun&count_private=true&theme=dracula&layout=compact" />
 </a>
-<a style="display:inline-block;margin-top:5px;" href="https://github.com/atsumarukun">
+<a style="display:block;margin-top:5px;" href="https://github.com/atsumarukun">
   <img align="left" height="186px" border="1" src="https://raw.githubusercontent.com/atsumarukun/atsumarukun/main/profile-summary-card-output/dracula/0-profile-details.svg" />
 </a>
