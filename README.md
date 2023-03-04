@@ -4,6 +4,3 @@
 <a href="https://github.com/atsumarukun">
   <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsumarukun&count_private=true&theme=react&layout=compact" />
 </a>
-
-[![](https://activity-graph.herokuapp.com/graph?username=yutkat&theme=github)](https://activity-graph.herokuapp.com/graph?username=yutkat&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=dark)
