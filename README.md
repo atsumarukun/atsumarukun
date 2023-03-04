@@ -1,6 +1,5 @@
-<a href="https://github.com/atsumarukun">
-  <img align="left" height="186px" style="border: solid 1px #ffffff; border-radius: 5px" src="https://raw.githubusercontent.com/atsumarukun/atsumarukun/main/profile-summary-card-output/dracula/0-profile-details.svg" />
-</a>
+[![](https://raw.githubusercontent.com/atsumarukun/atsumarukun/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <p>
   <a href="https://github.com/atsumarukun">
