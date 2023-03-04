@@ -4,4 +4,6 @@
 </p>
 <br />
 <br />
-<img align="left" height="186px" border="1" src="https://raw.githubusercontent.com/atsumarukun/atsumarukun/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+<p>
+  <img align="left" height="186px" border="1" src="https://raw.githubusercontent.com/atsumarukun/atsumarukun/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+</p>
